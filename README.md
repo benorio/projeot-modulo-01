@@ -8,7 +8,7 @@ Durante o módulo um, focamos bastante no desenvolvimento Java Web utilizando Se
 Vamos criar uma aplicação Web em Java para gestão de uma livraria online. Nesse primeiro desafio, criaremos o cadastro e a listagem de autores e ao longo do bootcamp, vamos implementar evoluções ao projeto;
 
 <h1 align="center">
-    <img alt="Launchbase" src="https://uploaddeimagens.com.br/images/003/426/382/full/unnamed.png?1631503400" width="300px" />
+    <img alt="Launchbase" src="https://uploaddeimagens.com.br/images/003/426/382/full/unnamed.png?1631503400" width="70%" />
 </h1>
 
 # Requisitos mínimos
